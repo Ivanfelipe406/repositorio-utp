@@ -454,6 +454,35 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+
+
+.cuadrado{
+
+  padding: 10px ;
+  margin: 10px;
+  background-color: red;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.center_div{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.alink{
+
+  color: white;
+
+}
+
+.h5_5{
+  margin-top: 10px;
+  text-align: center;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
